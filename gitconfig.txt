@@ -1,0 +1,11 @@
+[user]
+  name = Counts The Clouds
+  email = counts-the-clouds@water-through-fog.com
+[core]
+  autocrlf = false
+  eol = lf
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status

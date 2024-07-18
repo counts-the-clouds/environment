@@ -1,0 +1,10 @@
+
+export WORK_HOME=/d/Work
+export THUNDER_HOME=/d/Work/distant-thunder
+export CHALCEDONY_HOME=/d/Work/distant-thunder/application
+
+alias work='cd $WORK_HOME'
+alias chal='cd $CHALCEDONY_HOME'
+alias more='cat'
+
+alias rename='node $WORK_HOME/environment/bin/rename.js'
