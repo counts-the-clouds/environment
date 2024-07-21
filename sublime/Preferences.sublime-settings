@@ -1,0 +1,26 @@
+{
+	"font_face": "Consolas",
+	"font_size": 15,
+	"font_options": ["directwrite","dlig","ss01"],
+
+	"rulers": [80,120],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": "all",
+
+	"theme": "predawn-DEV.sublime-theme",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	"folder_exclude_patterns": [".*","node_modules","client/lib","dist"],
+	"file_exclude_patterns": ["package-lock.json","onyx.css*"],
+
+	"default_line_ending": "unix",
+	"index_files": true,
+
+	"auto_complete": false,
+}
